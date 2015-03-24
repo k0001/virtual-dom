@@ -1,5 +1,5 @@
 module VirtualDom
-       (module VirtualDom.HTML, with, into, renderTo, bodyContainer,
+       (module VirtualDom.HTML, HTML, with, into, renderTo, bodyContainer,
         newTopLevelContainer, on, DOMDelegator, initDomDelegator)
        where
 
